@@ -1,3 +1,3 @@
 module.exports = {
-    JWT_SECRET : "nigger"
+    JWT_SECRET : "password"
 }
